@@ -52,6 +52,9 @@ body {
     text-align: center;
     margin-bottom: 50px;
 }
+.para{
+    padding: 50px;
+}
 
 @keyframes pulse {
     0% { transform: scale(1); }
@@ -120,5 +123,6 @@ body {
         width: 100%;
     }
 }
+
 
 
